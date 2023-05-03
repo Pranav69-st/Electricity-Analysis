@@ -26,6 +26,50 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+
+## Electricity Access Post-2000s: Comparative Analysis
+Collaborated on a project to analyze the access to electricity across countries post-2000s, using multiple Json files containing raw data and metadata.
+
+## Development Process
+The development process included the following steps:
+
+## Data Collection: Collected data from multiple sources and merged them into a single dataset using Python.
+Problem and Objectives: Defined the problem statement and objectives to be achieved through the analysis.
+Manipulation: Cleaned and transformed the dataset using Python to ensure consistency and removed any discrepancies.
+Analysis: Conducted a comparative analysis of electricity access in different countries, compared country performance with the world average, and determined the count of countries with more than seventy-five per cent rural electricity access.
+
+## Insights
+Through the analysis, we uncovered interesting data insights related to access to electricity across countries post-2000s. We found that the countries with the highest rural electricity access were primarily located in Europe and Central Asia. Additionally, we identified the countries with the lowest electricity access, such as Afghanistan and other countries
+
+## Dependencies
+To run this project, you will need the following dependencies:
+
+- Microsoft SQL Server
+- SSMS
+- Excel 
+- Python 3.x or above
+
+
+## Future Work
+In the future, we plan to expand our analysis to include more recent data and additional metrics for comparison. We also aim to create visualizations to make the insights more accessible to a wider audience.
+
+Contact Information
+If you have any questions or feedback about this project, please contact me from the above information.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav69-st&show_icons=true&locale=en&layout=compact" alt="pranav69-st" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav69-st&show_icons=true&locale=en" alt="pranav69-st" /></p>
